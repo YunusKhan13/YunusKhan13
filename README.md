@@ -62,22 +62,26 @@ I am Yunus, a motivated Data Analyst and SQL Developer with a solid engineering 
 
 - **Skills Gained**: Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks
 - **Key Learnings**: Understanding of AI fundamentals, practical applications of machine learning algorithms, and the development of AI models.
+![Google AI Essentials](https://github.com/YunusKhan13/YunusKhan13/blob/5216847041da805a346c04d9fae8bf8385ad6ebe/Google%20AI%20Essentials.jpg)
 
 ### SQL for Data Science
 **University of California, Davis** (Jun 2023 - Aug 2023)  
 
 - **Skills Gained**: Data Science, Data Analysis, SQLite, SQL
 - **Key Learnings**: Proficiency in using SQL commands to filter, sort, and summarize data. Mastery of creating analysis tables and using functions to manipulate data.
+![SQL for Data Science](https://github.com/YunusKhan13/YunusKhan13/blob/5216847041da805a346c04d9fae8bf8385ad6ebe/SQL%20for%20Data%20Science.jpg)
 
 ### Data Visualization with Tableau Specialization
 **University of California, Davis** (Feb 2023 - Jul 2023)  
 
 - **Skills Gained**: Storyboarding, Map, Tableau Software, Data Visualization (DataViz)
 - **Key Learnings**: Proficiency in Tableau for data analysis and visualization, designing audience-specific dashboards, and applying best practices for data storytelling.
+![Data Visualization with Tableau Specialization](https://github.com/YunusKhan13/YunusKhan13/blob/5216847041da805a346c04d9fae8bf8385ad6ebe/Data%20Visualization%20with%20Tableau.jpg)
 
 ### Google Data Analytics Professional Certificate
 **Google** (Aug 2023 - Feb 2023)  
 
 - **Skills Gained**: Data Collection, Data Cleansing, Data Analysis, Data Aggregation, Data Calculations, Data Visualization (DataViz), Spreadsheet, SQL, R Markdown, Metadata, Data Ethics, Case Study.
 - **Key Learnings**: Practical knowledge of data analyst roles and responsibilities, analytical skills, and tools for data cleaning, analysis, and visualization.
+![Google Data Analytics Professional Certificate](https://github.com/YunusKhan13/YunusKhan13/blob/5216847041da805a346c04d9fae8bf8385ad6ebe/Google%20Data%20Analytics.jpg)
 
