@@ -81,6 +81,3 @@ I am Yunus, a motivated Data Analyst and SQL Developer with a solid engineering 
 - **Skills Gained**: Data Collection, Data Cleansing, Data Analysis, Data Aggregation, Data Calculations, Data Visualization (DataViz), Spreadsheet, SQL, R Markdown, Metadata, Data Ethics, Case Study.
 - **Key Learnings**: Practical knowledge of data analyst roles and responsibilities, analytical skills, and tools for data cleaning, analysis, and visualization.
 
----
-
-![Snake Game](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
