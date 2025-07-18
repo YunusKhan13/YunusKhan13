@@ -116,7 +116,8 @@ Used **Python** and **Tableau** to analyze aviation incident data and uncover se
 
 ## 📫 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/YunusKhan13)  
-- 📧 Email: khan.yunus@example.com  
+<div align="left">
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/khanyunus13/) 
+[![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:yunuskhan131299@gmail.com)
+</div>
